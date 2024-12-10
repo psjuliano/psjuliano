@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Priscila Juliano 😁
+## Welcome to my Profile- Priscila Juliano 😁
 
  <div>
    <a href="https://github.com/psjuliano">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### If you are interested in Software Development, follow me!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
